@@ -1,0 +1,1 @@
+<small id="{{$id}}" class="minAlert">*</small>

@@ -1,0 +1,10 @@
+$x: 1px;
+$y: blue;
+
+.createForm {
+    margin: auto;
+    width: 80%;
+    border: $x solid $y;
+    padding: 10px;
+    border-radius: 30px;
+  }

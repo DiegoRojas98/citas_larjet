@@ -1,0 +1,10 @@
+$x: 3px;
+$y: blue;
+
+.loginForm {
+    margin: auto;
+    width: 60%;
+    border: $x solid $y;
+    padding: 10px;
+    border-radius: 30px;
+  }
